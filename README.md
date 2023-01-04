@@ -14,4 +14,5 @@ The main code includes the creation of thread objects for each thread. The threa
 ![image](https://user-images.githubusercontent.com/73712563/210419986-923cdee8-52eb-46f8-81c1-b28fb853bcf6.png)
 
 # Output
-![image](https://user-images.githubusercontent.com/73712563/210420044-7b202835-035f-49df-b05b-cd394d3d0ae9.png)
+![image](https://user-images.githubusercontent.com/73712563/210479186-d700997a-5a77-43f1-b02d-54939fdcb8f5.png)
+
